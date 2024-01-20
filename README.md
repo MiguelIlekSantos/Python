@@ -24,12 +24,13 @@
 ## Language
 
 <p dir="auto"><a href="https://nextjs.org" rel="nofollow"> 
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" rel="nofollow"><img alt="HTML5" width="50" height="50" src="https://github.com/MiguelIlekSantos/Python/assets/138301252/5137d142-03b2-4c72-9317-abb86a913186" style="max-width: 100%;"></a>
+
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" rel="nofollow"><img alt="HTML5" width="50" height="50" src="https://github.com/MiguelIlekSantos/Python/assets/138301252/7ed28207-1483-4712-ae39-600c069d90f5" style="max-width: 100%;"></a>
    <br>
 
 ### Tools
 
-<a href="https://git-scm.com/" rel="nofollow"><img alt="Git" width="50" height="50" src="https://github.com/MiguelIlekSantos/Python/assets/138301252/6e9a7d6d-9b10-49e2-ae56-785309b25d53"></a></p>
+<a href="https://git-scm.com/" rel="nofollow"><img alt="Git" width="50" height="50" src="https://github.com/MiguelIlekSantos/Python/assets/138301252/6901a9c7-04f2-4bba-a31e-0487610ecf2a"></a></p>
 <a href="https://git-scm.com/" rel="nofollow"><img alt="Git" width="50" height="50" src="https://github.com/MiguelIlekSantos/russian-alphabet-game/assets/138301252/9652960c-8fb4-42e2-a9b6-c587fe9f7a15" style="max-width: 100%;"></a></p>
 
 <br>
