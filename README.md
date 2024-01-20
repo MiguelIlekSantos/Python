@@ -29,8 +29,8 @@
 
 ### Tools
 
-<p dir="auto"><a href="https://code.visualstudio.com/" rel="nofollow"><img alt="CodeBlocks" width="50" height="50" src="https://github.com/MiguelIlekSantos/C/assets/138301252/f25070bb-bfaf-4b3c-b3d8-2dc2ef518e3f" style="max-width: 100%;"></a>
-<p dir="auto"><a href="https://code.visualstudio.com/" rel="nofollow"><img alt="Dev C++" width="50" height="50" src="https://github.com/MiguelIlekSantos/C/assets/138301252/5848bd99-5fcd-4d94-8b8c-67c6b8fa8830" style="max-width: 100%;"></a>
+<p dir="auto"><a href="https://code.visualstudio.com/" rel="nofollow"><img alt="CodeBlocks" width="50" height="50" src="https://github.com/MiguelIlekSantos/C/assets/138301252/f25070bb-bfaf-4b3c-b3d8-2dc2ef518e3f" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://code.visualstudio.com/" rel="nofollow"><img alt="Dev C++" width="50" height="50" src="https://github.com/MiguelIlekSantos/C/assets/138301252/5848bd99-5fcd-4d94-8b8c-67c6b8fa8830" style="max-width: 100%;"></a></p>
 <a href="https://git-scm.com/" rel="nofollow"><img alt="Git" width="50" height="50" src="https://github.com/MiguelIlekSantos/russian-alphabet-game/assets/138301252/9652960c-8fb4-42e2-a9b6-c587fe9f7a15" style="max-width: 100%;"></a></p>
 
 <br>
