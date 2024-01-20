@@ -24,13 +24,12 @@
 ## Language
 
 <p dir="auto"><a href="https://nextjs.org" rel="nofollow"> 
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" rel="nofollow"><img alt="HTML5" width="50" height="50" src="https://github.com/MiguelIlekSantos/C/assets/138301252/f8d45e36-8fe2-4e60-9bab-8f36fefd60f6" style="max-width: 100%;"></a>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" rel="nofollow"><img alt="HTML5" width="50" height="50" src="https://github.com/MiguelIlekSantos/Python/assets/138301252/5137d142-03b2-4c72-9317-abb86a913186" style="max-width: 100%;"></a>
    <br>
 
 ### Tools
 
-<p dir="auto"><a href="https://code.visualstudio.com/" rel="nofollow"><img alt="CodeBlocks" width="50" height="50" src="https://github.com/MiguelIlekSantos/C/assets/138301252/f25070bb-bfaf-4b3c-b3d8-2dc2ef518e3f" style="max-width: 100%;"></a></p>
-<p dir="auto"><a href="https://code.visualstudio.com/" rel="nofollow"><img alt="Dev C++" width="50" height="50" src="https://github.com/MiguelIlekSantos/C/assets/138301252/5848bd99-5fcd-4d94-8b8c-67c6b8fa8830" style="max-width: 100%;"></a></p>
+<a href="https://git-scm.com/" rel="nofollow"><img alt="Git" width="50" height="50" src="https://github.com/MiguelIlekSantos/Python/assets/138301252/6e9a7d6d-9b10-49e2-ae56-785309b25d53"></a></p>
 <a href="https://git-scm.com/" rel="nofollow"><img alt="Git" width="50" height="50" src="https://github.com/MiguelIlekSantos/russian-alphabet-game/assets/138301252/9652960c-8fb4-42e2-a9b6-c587fe9f7a15" style="max-width: 100%;"></a></p>
 
 <br>
