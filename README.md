@@ -30,7 +30,7 @@
 
 ### Tools
 
-<a href="https://git-scm.com/" rel="nofollow"><img alt="Git" width="50" height="50" src="https://github.com/MiguelIlekSantos/Python/assets/138301252/6901a9c7-04f2-4bba-a31e-0487610ecf2a"></a></p>
+<a href="https://git-scm.com/" rel="nofollow"><img alt="Git" width="50" height="50" src="https://github.com/MiguelIlekSantos/Python/assets/138301252/2b81496e-20d0-494f-a6b0-0d393483f915"></a></p>
 <a href="https://git-scm.com/" rel="nofollow"><img alt="Git" width="50" height="50" src="https://github.com/MiguelIlekSantos/russian-alphabet-game/assets/138301252/9652960c-8fb4-42e2-a9b6-c587fe9f7a15" style="max-width: 100%;"></a></p>
 
 <br>
